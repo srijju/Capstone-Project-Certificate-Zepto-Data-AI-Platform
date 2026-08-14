@@ -1,0 +1,4 @@
+Method,F1 Score
+Baseline,0.7344
+Class Weight,0.7338
+SMOTE,0.7353
