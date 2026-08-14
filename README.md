@@ -22,7 +22,6 @@ Capstone-Project-Certificate-Zepto-Data-AI-Platform/
 ├── data_pipeline/
 ├── analytics/
 ├── support_assistant/
-└── .gitignore
 ```
 
 Each module contains its own `README.md` and `requirements.txt`.
